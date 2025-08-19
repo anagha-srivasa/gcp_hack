@@ -1,0 +1,13 @@
+# MongoDB connection
+mongodb_pass: "mongodb+srv://anaghasrivasa:pfAQJSxLfpjtU8ig@cluster0.plngsac.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+# Processing configuration (users can tweak these)
+processing:
+  pdf:
+    # Default DPI for rendering PDF pages to images (used by pdf_render)
+    render_dpi: 600
+  chunk:
+    # Maximum characters per chunk when splitting section text
+    max_chars: 15000
+    # Overlap characters between consecutive chunks
+    overlap_chars: 200

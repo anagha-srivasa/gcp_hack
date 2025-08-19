@@ -1,0 +1,12 @@
+{
+  "document_id": "string",    
+  "chunk_id": "string",       
+  "chunk_index": "integer",   
+  "content": "string",        
+  "metadata": {
+    "filename": "string",     
+    "upload_date": "datetime",
+    "author": "string",       
+    "tags": ["string"]        
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Clean up unused queries folder (no-op task)",
+			"type": "shell",
+			"command": "echo Queries now handled via POST /ingest/documents/delete; template files are optional.",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "embedding_id": "string",
+  "chunk_id": "string",
+  "document_id": "string",
+  "vector": [0.0],
+  "model": "string",
+  "created_at": "string"
+}

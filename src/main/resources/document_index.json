@@ -1,0 +1,12 @@
+{
+  "document_id": "string",
+  "title": "string",
+  "description": "string",
+  "filename": "string",
+  "upload_date": "string",
+  "author": "string",
+  "tags": ["string"],
+  "num_chunks": 0,
+  "size_bytes": 0,
+  "content_type": "string"
+}
